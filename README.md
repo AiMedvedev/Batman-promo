@@ -1,2 +1,5 @@
 # Batman-promo
-Верстка макета
+
+Верстка промо-страницы по макету Figma.
+
+Использовано: HTML, CSS, JavaScript, Figma.
